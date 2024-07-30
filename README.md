@@ -4,8 +4,6 @@
 
 This project is a procedural terrain generator that creates realistic 3D terrain models using Perlin noise. The generated terrains can be rendered in real-time with OpenGL and come with various biomes like water, sand, grass, rock, and snow based on height. Users can interact with the terrain in real-time and adjust generation parameters through a graphical user interface (GUI).
 
-![Terrain Screenshot]![image](https://github.com/user-attachments/assets/84468eb9-6cd7-4c00-bac7-3f8214972d6b)
-)
 
 ## Features
 
@@ -44,3 +42,5 @@ The terrain is rendered in OpenGL with different textures based on height:
 - **Grass**: For mid-level points.
 - **Rock**: For high points.
 - **Snow**: For the highest points.
+
+![image](https://github.com/user-attachments/assets/84468eb9-6cd7-4c00-bac7-3f8214972d6b)
